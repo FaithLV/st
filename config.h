@@ -86,22 +86,22 @@ unsigned int tabspaces = 8;
 unsigned int alpha = 0xF5;
 
 static const char *colorname[] = {
-	"#212121",  /*  0: black    */
-	"#dc322f",  /*  1: red      */
-	"#859900",  /*  2: green    */
-	"#b58900",  /*  3: yellow   */
-	"#268bd2",  /*  4: blue     */
-	"#d33682",  /*  5: magenta  */
-	"#2aa198",  /*  6: cyan     */
-	"#eee8d5",  /*  7: white    */
-	"#002b36",  /*  8: brblack  */
-	"#cb4b16",  /*  9: brred    */
-	"#586e75",  /* 10: brgreen  */
-	"#657b83",  /* 11: bryellow */
-	"#e0e0e0",  /* 12: brblue   */
-	"#6c71c4",  /* 13: brmagenta*/
-	"#16A085",  /* 14: brcyan   */
-	"#fdf6e3",  /* 15: brwhite  */
+	"#212121",  /*  0 */
+	"#dc322f",  /*  1 */
+	"#859900",  /*  2 */
+	"#b58900",  /*  3 */
+	"#268bd2",  /*  4 */
+	"#d33682",  /*  5 */
+	"#2aa198",  /*  6 */
+	"#eee8d5",  /*  7 */
+	"#002b36",  /*  8 */
+	"#cb4b16",  /*  9 */
+	"#586e75",  /* 10 */
+	"#657b83",  /* 11 */
+	"#e0e0e0",  /* 12 */
+	"#6c71c4",  /* 13 */
+	"#16A085",  /* 14 */
+	"#fdf6e3",  /* 15 */
 	/* more colors can be added after 255 to use with DefaultXX */
 	"black",   /* 256 -> bg */
 	"#00cc00", /* 257 -> fg */
