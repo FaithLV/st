@@ -83,7 +83,7 @@ char *termname = "st-256color";
 unsigned int tabspaces = 8;
 
 /* bg opacity */
-unsigned int alpha = 0xF5;
+unsigned int alpha = 0xD2;
 
 static const char *colorname[] = {
 	"#212121",  /*  0 */
