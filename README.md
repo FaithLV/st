@@ -1,4 +1,5 @@
 Keybinds:
+
 	Alt+C - Copy
 	
 	Alt+V / Alt+P - Paste
