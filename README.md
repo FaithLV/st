@@ -10,3 +10,5 @@ Keybinds:
 
 Install:
 	`sudo make install`
+
+Based on Luke Smith's st fork: https://github.com/lukesmithxyz/st
