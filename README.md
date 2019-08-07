@@ -8,6 +8,10 @@ Keybinds:
 	
 	Alt+↑ / Alt+↓ - Move up/down in terminal
 
+Notes:
+
+	Shell program is only selected from config.h (fish)
+
 Install:
 	`sudo make install`
 
