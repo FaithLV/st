@@ -86,7 +86,7 @@ unsigned int tabspaces = 8;
 unsigned int alpha = 0xD2;
 
 static const char *colorname[] = {
-	"#212121",  /*  0 */
+	"#141414",  /*  0 */
 	"#dc322f",  /*  1 */
 	"#859900",  /*  2 */
 	"#b58900",  /*  3 */
