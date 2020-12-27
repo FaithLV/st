@@ -30,6 +30,8 @@ st \- simple terminal (Luke Smith's build)
 .RB [ \-aiv ]
 .RB [ \-c
 .IR class ]
+.RB [ \-d
+.IR path ]
 .RB [ \-f
 .IR font ]
 .RB [ \-g
@@ -74,6 +76,10 @@ will fixate the position given with the -g option.
 .TP
 .BI \-n " name"
 defines the window instance name (default $TERM).
+.TP
+.BI \-d " path"
+changes the working directory to
+.IR path .
 .TP
 .BI \-o " iofile"
 writes all the I/O to
